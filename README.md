@@ -49,5 +49,6 @@ In this project I played the  role of Analytics Lead for FestMan. I analyzed a t
 12. What is the best way tourists pay 
 13. Is there a top bank our clients use?
 
+You can view my code here https://github.com/FaithOIgwe/Data-Exploration-in-SQL/blob/main/Hotel%20dataset.sql
 
 
