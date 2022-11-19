@@ -1,4 +1,4 @@
-# Data Analysis and database Querying using SQL to answer business questions and help individuals make data driven decisions.
+# Data Analysis and database Querying using SQL to answer business questions and help stakeholders make data driven decisions.
 
 
 ## Covid-19 Deaths Analysis in SQL
@@ -17,3 +17,20 @@ that?
 • Where are the High-Risk Countries?
 
 • Recommendations and Findings
+You can view my code here https://github.com/FaithOIgwe/Data-Exploration-in-SQL/blob/main/Covid-19%20in%20SQL and visualization here https://github.com/FaithOIgwe/Covid-19-Analysis-in-Excel
+
+## Superstore sale exploration and analysis in SQL
+In this project I analyzed the Annual report of the superstore dataset (2003-2004), to help the stakeholders understand key business indicators and see where it’s necessary to improve or exceed performance expectations.
+My Analysis and Exploration was guided by the follwing parameters:
+ 1. What is the sales trend across years?
+ 2. What is the best and least selling products?
+ 3. What is the best month to sell at superstore?
+ 4. Are there products that go well togther?
+ 5. Who are our best clients?
+ 6. What is the average sale per year, month and day?
+ 7. Recommendations and findings.
+
+You can view my code here https://github.com/FaithOIgwe/Data-Exploration-in-SQL/blob/main/Sample_sales%20data%20exploration.sql
+
+## Tourism across Years
+In this project
