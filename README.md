@@ -1,4 +1,4 @@
-# Data Analysis and database Querying using SQL to answer business questions and help stakeholders make data driven decisions.
+# In this repositroy I use SQL to answer business questions and help stakeholders make data driven decisions. Working with PostgreSQL, Microsoft SQL Server Management Studio, MySQL, and Big Query
 
 
 ## Covid-19 Deaths Analysis in SQL
