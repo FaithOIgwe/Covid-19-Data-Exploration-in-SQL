@@ -40,7 +40,9 @@ You can view my code here https://github.com/FaithOIgwe/Data-Exploration-in-SQL/
 ## Tourism across Years
 ![rolands-varsbergs-miKmVyq3qhE-unsplash](https://user-images.githubusercontent.com/108904370/203080076-032000cc-b701-4216-9e69-27abf55bda67.jpg)
 
-In this project I played the  role of Analytics Lead for FestMan. I analyzed a this dataset that included records of toruist travels across years. I really enjoyed querying this data as I love travelling and have worked in a hotel before, so it was easy to play the role of a tourist on the one hand and drilled the data to better understand it and help  stakeholders make data-driven decisions.
+In this project I played the  role of Analytics Lead for FestMan. I analyzed 60,000 records  of toruist travels across years, helping tourist discover the best destination and location for their next trip using the records of past tourists, their origin country and destination country for travel, rating of the hotels, how long they stayed and the amount spent. This will help future tourists discover the best next place for their vacation.
+
+I really enjoyed querying this data as I love travelling and have worked in a hotel before, so it was easy to play the role of a tourist on the one hand and drilled the data to better understand it and help  stakeholders make data-driven decisions.
  Analysis Guidelines
 1. Top Destination for Customers?
 2. Provide insights on Top countries Customers prefer to visit.
