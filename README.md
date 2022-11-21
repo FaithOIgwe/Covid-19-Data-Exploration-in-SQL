@@ -60,7 +60,7 @@ I really enjoyed querying this data as I love travelling and have worked in a ho
 
 You can view my code here https://github.com/FaithOIgwe/Data-Exploration-in-SQL/blob/main/Hotel%20dataset.sql
 
-##Danny's Diner 8 week SQL challenge 
+## Danny's Diner 8 week SQL challenge 
 ![1](https://user-images.githubusercontent.com/108904370/203078785-ab361c28-51b7-412f-ab78-abe2589f6e20.png)
 
 Introduction
