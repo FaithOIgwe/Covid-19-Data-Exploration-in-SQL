@@ -1,7 +1,10 @@
-# In this repositroy I use SQL to answer business questions and help stakeholders make data driven decisions. Working with PostgreSQL, Microsoft SQL Server Management Studio, MySQL, and Big Query
+# In this repository I use SQL to answer business questions and help stakeholders make data driven decisions. Working with PostgreSQL, Microsoft SQL Server Management Studio, MySQL, and Big Query
 
 
 ## Covid-19 Deaths Analysis in SQL
+![Covid](https://user-images.githubusercontent.com/108904370/203080181-2d4289c4-131f-4fa8-8079-68d11622b2e8.jpg)
+
+
 I carried out an analysis of Covid 19 Deaths, with data gotten from ourworldindata.com. The purpose behind this project was to help individuals understand how deadly the  Covid-19 virus can be and also to encourage individuals to follow every guideline that has been stated by WHO to combat the spread of this deadly virus.
 
 My analysis was guided by the following parameters:
@@ -20,6 +23,8 @@ that?
 You can view my code here https://github.com/FaithOIgwe/Data-Exploration-in-SQL/blob/main/Covid-19%20in%20SQL and visualization here https://github.com/FaithOIgwe/Covid-19-Analysis-in-Excel
 
 ## Superstore sale exploration and analysis in SQL
+![Sample superstore](https://user-images.githubusercontent.com/108904370/203080308-53134ef8-80fc-4f56-af32-cd402c8976f4.jpg)
+
 In this project I analyzed the Annual report of the superstore dataset (2003-2004), to help the stakeholders understand key business indicators and see where it’s necessary to improve or exceed performance expectations.
 My Analysis and Exploration was guided by the follwing parameters:
  1. What is the sales trend across years?
@@ -33,6 +38,8 @@ My Analysis and Exploration was guided by the follwing parameters:
 You can view my code here https://github.com/FaithOIgwe/Data-Exploration-in-SQL/blob/main/Sample_sales%20data%20exploration.sql
 
 ## Tourism across Years
+![rolands-varsbergs-miKmVyq3qhE-unsplash](https://user-images.githubusercontent.com/108904370/203080076-032000cc-b701-4216-9e69-27abf55bda67.jpg)
+
 In this project I played the  role of Analytics Lead for FestMan. I analyzed a this dataset that included records of toruist travels across years. I really enjoyed querying this data as I love travelling and have worked in a hotel before, so it was easy to play the role of a tourist on the one hand and drilled the data to better understand it and help  stakeholders make data-driven decisions.
  Analysis Guidelines
 1. Top Destination for Customers?
@@ -51,4 +58,40 @@ In this project I played the  role of Analytics Lead for FestMan. I analyzed a t
 
 You can view my code here https://github.com/FaithOIgwe/Data-Exploration-in-SQL/blob/main/Hotel%20dataset.sql
 
+##Danny's Diner 8 week SQL challenge 
+![1](https://user-images.githubusercontent.com/108904370/203078785-ab361c28-51b7-412f-ab78-abe2589f6e20.png)
 
+Introduction
+Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
+
+Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
+
+Problem Statement
+Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
+
+He plans on using these insights to help him decide whether he should expand the existing customer loyalty program - additionally he needs help to generate some basic datasets so his team can easily inspect the data without needing to use SQL.
+
+Danny has provided you with a sample of his overall customer data due to privacy issues - but he hopes that these examples are enough for you to write fully functioning SQL queries to help him answer his questions!
+
+Danny has shared with you 3 key datasets for this case study:
+
+sales
+menu
+members
+
+### WEEEK 1 CASE STUDY QUESTIONS 
+
+Each of the following case study questions can be answered using a single SQL statement:
+
+What is the total amount each customer spent at the restaurant?
+How many days has each customer visited the restaurant?
+What was the first item from the menu purchased by each customer?
+What is the most purchased item on the menu and how many times was it purchased by all customers?
+Which item was the most popular for each customer?
+Which item was purchased first by the customer after they became a member?
+Which item was purchased just before the customer became a member?
+What is the total items and amount spent for each member before they became a member?
+If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
+In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+
+You can view my code here https://github.com/FaithOIgwe/Data-Analysis-and-Database-Querying-using-SQL/blob/main/Danny's%20Diner%208%20week%20SQL%20CHALLENGE
